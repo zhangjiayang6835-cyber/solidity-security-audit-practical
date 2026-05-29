@@ -1,0 +1,11 @@
+{
+  "name": "solidity-security-audit-practical",
+  "version": "1.0.0",
+  "description": "Solidity安全审计实战 - Damn Vulnerable DeFi 8关全解",
+  "scripts": {
+    "compile": "bash compile.sh"
+  },
+  "devDependencies": {
+    "solc": "^0.8.0"
+  }
+}
