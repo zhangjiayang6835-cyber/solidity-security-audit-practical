@@ -67,8 +67,9 @@ contracts/
 
 ## 购买
 
-- [❤️ 爱发电购买](https://afdian.com/a/_6b83b)
-- GitHub Release（免费）：https://github.com/zhangjiayang6835-cyber/solidity-security-audit-practical/releases/tag/v1.0
+❤️ [爱发电购买 ¥99](https://afdian.com/a/_6b83b) 支持微信/支付宝
+
+购买后永久更新。
 
 ---
 
