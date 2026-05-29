@@ -67,8 +67,8 @@ contracts/
 
 ## 购买
 
-- [爱发电购买](https://afdian.com/...) // 待设置
-- 或直接联系：zhangjiayang6835@gmail.com
+- [❤️ 爱发电购买](https://afdian.com/a/_6b83b)
+- GitHub Release（免费）：https://github.com/zhangjiayang6835-cyber/solidity-security-audit-practical/releases/tag/v1.0
 
 ---
 
